@@ -1,5 +1,7 @@
 # 🚀 AI Avatar Generation & Editing Agent
 
+Working Project (Hugging Face Space): https://huggingface.co/spaces/Azeem123456/Ai_Avatar_Generator
+
 ## 📌 Overview
 This project implements an **AI-powered avatar generation and editing agent** that allows users to:
 
